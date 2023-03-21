@@ -751,7 +751,7 @@ footer {
 .f_logo {
   width : 150px;
   height : 150px;
-  margin : 50px 0;
+  margin-top : 50px;
 }
 
 .footer-ctnt_wrap {
@@ -760,7 +760,7 @@ footer {
 }
 
 .f_list {
-  margin-top : 50px;
+  margin-top : 70px;
 }
 
 .f_list li {
@@ -797,4 +797,9 @@ footer {
 }
 
 
-
+.f_copy {
+  color : #ddd;
+  font-size : 18px;
+  margin : 15px 0 80px 0;
+  font-weight : bold;
+}
