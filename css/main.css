@@ -743,6 +743,11 @@ main {
 }
 
 
+footer {
+  width : 100%;
+  background-color : #fff;
+}
+
 .f_logo {
   width : 150px;
   height : 150px;
